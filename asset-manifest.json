@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/restorant-landing-page/static/css/main.42300d1c.css",
+    "main.js": "/restorant-landing-page/static/js/main.e7cbddfe.js",
+    "static/media/home-banner-image.png": "/restorant-landing-page/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/restorant-landing-page/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/home-banner-background.png": "/restorant-landing-page/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/restorant-landing-page/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/restorant-landing-page/index.html",
+    "main.42300d1c.css.map": "/restorant-landing-page/static/css/main.42300d1c.css.map",
+    "main.e7cbddfe.js.map": "/restorant-landing-page/static/js/main.e7cbddfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42300d1c.css",
+    "static/js/main.e7cbddfe.js"
+  ]
+}
